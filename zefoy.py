@@ -54,3 +54,4 @@ for i in range(loopss):
 
 #ONCE FINISHED THE PROCESS THAT THING WILL MAKE THE BROWSER GET CLOSED !
 driver.quit()
+print("test")
